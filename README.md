@@ -1,4 +1,4 @@
-# Dheeraj Kumar — Personal Portfolio
+# Dheeraj Kumar - Personal Portfolio
 
 > **Software Developer & CS Undergrad** passionate about building production-ready Machine Learning systems, algorithmic optimization, and scalable backend services.
 
@@ -14,16 +14,16 @@
 
 ### Featured Projects
 
-- **[Green Fleet Optimizer](https://green-fleet-optimizer-production.up.railway.app/)** — AI-powered route planning and vehicle emissions optimization engine built with Python & Flask.
-- **[PlanUp — Smart Tab Productivity](https://plan-up-jade.vercel.app/)** — Chrome extension and web dashboard designed for task prioritization and context preservation.
-- **[Laptop Price Estimator](https://laptop-price-estimator-69ye.onrender.com)** — End-to-end Machine Learning web application predicting hardware prices from specifications.
+- **[Green Fleet Optimizer](https://green-fleet-optimizer-production.up.railway.app/)** - AI-powered route planning and vehicle emissions optimization engine built with Python & Flask.
+- **[PlanUp - Smart Tab Productivity](https://plan-up-jade.vercel.app/)** - Chrome extension and web dashboard designed for task prioritization and context preservation.
+- **[Laptop Price Estimator](https://laptop-price-estimator-69ye.onrender.com)** - End-to-end Machine Learning web application predicting hardware prices from specifications.
 
 ---
 
 ### Virtual Experience & Simulations
 
-- **J.P. Morgan** — Quantitative Research Job Simulation
-- **Deloitte Australia** — Data Analytics Job Simulation
+- **J.P. Morgan** - Quantitative Research Job Simulation
+- **Deloitte Australia** - Data Analytics Job Simulation
 
 ---
 
