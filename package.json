@@ -1,7 +1,7 @@
 {
-  "homepage": "https://developerfolio.js.org/",
-  "name": "developerfolio",
-  "version": "0.1.0",
+  "homepage": "https://dheerajkr09.github.io/Portfolio",
+  "name": "dheeraj-portfolio",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "colorthief": "^2.3.0",
@@ -54,5 +54,7 @@
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "dotenv": "^8.2.0",
     "prettier": "^2.3.1"
-  }
+  },
+  "description": "Personal Portfolio of Dheeraj Kumar - Software Developer & CS Undergrad",
+  "author": "Dheeraj Kumar <dheerajkrr09@gmail.com>"
 }
